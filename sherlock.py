@@ -18,8 +18,6 @@ GETFILESIZE_COMMAND = "getfilesize"
 GETFIRST10_COMMAND = "getfirstten"
 GETFILENAME_COMMAND = "getfilename"
 GETFILELOCATION_COMMAND = "getfilelocation"
-
-helloooooooo
 #-----------------------------------------------------------------------
 
 # instantiate Slack & Twilio clients
