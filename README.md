@@ -46,7 +46,7 @@ Installing:
   
   To get the BOT_ID, just simply run the print_bot_id.py on the termial by typing:
     
-    pythong print_bot_id.py
+    python print_bot_id.py
     
   This prints out the BOT_ID. Now, we have to save the BOT_ID into another environment variable, to do this type:
   
